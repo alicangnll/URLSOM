@@ -2,9 +2,9 @@
 ### About
 <p>Your data are important to us. Thanks to this plugin, your data is now safer!
 <br>
-NO Proxy!<br>
-NO Firewall!<br>
-NO Antivirus!
+NO Proxy Requirement!<br>
+NO Firewall Requirement!<br>
+NO Web Antivirus Requirement!
 </p>
 ### Supporting List
 <ul>
