@@ -1,10 +1,11 @@
 # URLSOM - Browser-based URL Blocker
 ### About
-<p>Your data are important to us. Thanks to this plugin, your data is now safer!</p>
-NO Proxy!
-NO Firewall!
+<p>Your data are important to us. Thanks to this plugin, your data is now safer!
+<br>
+NO Proxy!<br>
+NO Firewall!<br>
 NO Antivirus!
-
+</p>
 ### Supporting List
 <ul>
 <li>Edge Browser</li>
