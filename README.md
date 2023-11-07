@@ -1,6 +1,9 @@
 # URLSOM - Browser-based URL Blocker
 ### About
 <p>Your data are important to us. Thanks to this plugin, your data is now safer!</p>
+NO Proxy!
+NO Firewall!
+NO Antivirus!
 
 ### Supporting List
 <ul>
