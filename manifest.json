@@ -1,0 +1,32 @@
+{
+  "name": "URLSOM Block",
+  "short_name": "URLSOM Block",
+  "version": "0.0.1",
+  "description": "URLSOM - Browser-based URL Blocker",
+  "permissions": [
+    "declarativeNetRequest",
+    "tabs",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "URLSOM Block",
+    "default_popup": "html/popup.html"
+  },
+  "background": {
+    "service_worker": "service_worker.js",
+    "type": "module"
+  },
+  "externally_connectable": {
+    "matches": [
+      "https://www.usom.gov.tr/*",
+      "https://github.com/*"
+    ]
+  },
+  "icons": {
+    "16": "logo/usonlogo_16x16.png",
+    "32": "logo/usonlogo_32x32.png",
+    "64": "logo/usonlogo_64x64.png"
+  },
+  "incognito": "split",
+  "manifest_version": 3
+}
