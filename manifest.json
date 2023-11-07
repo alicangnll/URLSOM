@@ -8,6 +8,9 @@
     "tabs",
     "scripting"
   ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
   "action": {
     "default_title": "URLSOM Block",
     "default_popup": "html/popup.html"
@@ -28,5 +31,9 @@
     "64": "logo/usonlogo_64x64.png"
   },
   "incognito": "split",
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';",
+    "popup_pages": ""
+  },
   "manifest_version": 3
 }
