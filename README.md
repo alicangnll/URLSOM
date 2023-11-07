@@ -1,6 +1,6 @@
 # URLSOM - Browser-based URL Blocker
 ### About
-<p>This extension blocks all Turkish-based harmful domains</p>
+<p>Your data are important to us. Thanks to this plugin, your data is now safer!</p>
 
 ### Supporting List
 <ul>
